@@ -1,0 +1,4 @@
+[package]
+name = "app"
+[profile.dev.package."*"]
+opt-level = "z"
